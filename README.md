@@ -3,7 +3,7 @@ Sooner or later, we all find ourselves choosing clothes from an online shop, but
 It would be much better to have a friend who performs an initial screening for us, suggesting items that might align with our preferences, directly from the provided web page.
   
 ShoppingBuddy is a personalized recommendation system based on ResNet50, developed to provide quick insights into products available on a fashion website according to your preferences.  
-The model is trained by assigning a fit-rate to each item. Images are processed in black and white to focus on the fit and cut of the garment, rather than the color, which often depends on the rest of the outfit being created.
+The model is trained by assigning a fit-rate [0 to 1] to each item. Images are processed in black and white to focus on the fit and cut of the garment, rather than the color, which often depends on the rest of the outfit being created.
 
 ## Get Started
 
