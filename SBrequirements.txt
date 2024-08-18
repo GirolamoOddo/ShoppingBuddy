@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.3
+googletrans==3.1.0a0
+ipywidgets==7.7.1
+ipython==7.34.0
+matplotlib==3.7.1
+numpy==1.26.4
+Pillow==9.4.0
+requests==2.32.3
+torch==2.3.1
+torchvision==0.18.1
