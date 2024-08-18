@@ -1,3 +1,6 @@
+
+![7d65ca5f-6c1f-422b-917f-74f68afde31f-01](https://github.com/user-attachments/assets/ce7fa966-a9d0-46f0-a649-cda5296ffb5d)
+
 # ShoppingBuddy
 Sooner or later, we all find ourselves choosing clothes from an online shop, but navigating these sites to find what best matches our tastes is often a frustrating and tedious task.   
 It would be much better to have a friend who performs an initial screening for us, suggesting items that might align with our preferences, directly from the provided web page.
