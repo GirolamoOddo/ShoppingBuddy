@@ -18,7 +18,7 @@ To use the system, you need to:
     _build_dataset(train_urls)_
 2. **Train the Model**: Train the ResNet50 model with the created dataset.  
    > _train_model()_
-3. **Provide URL for Predictions**: Once trained, the model is ready to make predictions on products provided via URLs.
+3. **Provide URL for Predictions**: Once trained, the model is ready to make predictions on products in the URL.
    >_pred_url = ['url_7']_  
     _use_model(pred_url, lang='en')_
 
