@@ -25,5 +25,5 @@ To use the system, you need to:
    >_pred_url = ['url_7']_  
     _use_model(pred_url, lang='en')_
 
-**Note**: Currently, the system supports only Mango and Mango Outlet websites.
+**Note**: Currently, the system supports only Mango and Mango Outlet websites, cause my girlfriend prefers these 🙃.
 
