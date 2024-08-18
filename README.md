@@ -13,14 +13,14 @@ To use the system, you need to:
    >Set environment [dev]  
     Import packages [dev]  
     Code block [dev]
-1. **Create Your Dataset**: Build a labeled dataset with a fit-rate for each item.
+1. **Create Your Dataset**: Build a labeled dataset with a fit-rate for each item in the provided URLs (more items, more accuracy).
    >_train_urls = [url_1, url_2, url_3, url_4, url_5, url_6]_  
     _build_dataset(train_urls)_
 2. **Train the Model**: Train the ResNet50 model with the created dataset.  
    > _train_model()_
-3. **Provide URLs for Predictions**: Once trained, the model is ready to make predictions on products provided via URLs.
-   >_pred_urls = ['url_7']_  
-    _use_model(pred_urls, lang='en')_
+3. **Provide URL for Predictions**: Once trained, the model is ready to make predictions on products provided via URLs.
+   >_pred_url = ['url_7']_  
+    _use_model(pred_url, lang='en')_
 
 **Note**: Currently, the system supports only Mango and Mango Outlet websites.
 
