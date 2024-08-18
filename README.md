@@ -1,6 +1,7 @@
 # ShoppingBuddy
 
-ShoppingBuddy is a personalized recommendation system based on ResNet50, developed to provide quick insights into products available on a fashion website according to your preferences. The model is trained by assigning a fit-rate to each item. Images are processed in black and white to focus on the fit and cut of the garment, rather than the color, which often depends on the rest of the outfit being created.
+ShoppingBuddy is a personalized recommendation system based on ResNet50, developed to provide quick insights into products available on a fashion website according to your preferences.  
+The model is trained by assigning a fit-rate to each item. Images are processed in black and white to focus on the fit and cut of the garment, rather than the color, which often depends on the rest of the outfit being created.
 
 ## Using the System
 
